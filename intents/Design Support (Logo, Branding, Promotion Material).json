@@ -1,0 +1,28 @@
+{
+  "id": "f1d55db8-0dae-41bf-8289-42a792ebbbf2",
+  "name": "Design Support (Logo, Branding, Promotion Material)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544093161,
+  "fallbackIntent": false,
+  "events": []
+}
