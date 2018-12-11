@@ -1,0 +1,28 @@
+{
+  "id": "2078663e-bd6c-4fb4-817b-355e4906abb5",
+  "name": "Funds and Finance Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544092334,
+  "fallbackIntent": false,
+  "events": []
+}
