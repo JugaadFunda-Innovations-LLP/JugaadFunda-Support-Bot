@@ -1,0 +1,39 @@
+{
+  "id": "de2bd44f-74a4-473c-b360-d520a8f852aa",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing? Welcome to JugaadFunda Support Bot",
+            "Hello! How JugaadFunda Support Bot can help you?",
+            "Good day! What can JugaadFunda Support Bot do for you today?",
+            "Greetings! How JugaadFunda Support Bot can assist?",
+            "Welcome to JugaadFunda Support Bot"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544081897,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
