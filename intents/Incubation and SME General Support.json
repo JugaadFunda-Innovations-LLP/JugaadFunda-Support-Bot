@@ -1,0 +1,28 @@
+{
+  "id": "d8d9187b-0b52-4f4a-bad6-2481c4771c7d",
+  "name": "Incubation and SME General Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544091827,
+  "fallbackIntent": false,
+  "events": []
+}
