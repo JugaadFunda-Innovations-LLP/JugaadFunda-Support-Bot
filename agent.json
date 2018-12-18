@@ -29,7 +29,7 @@
     "available": false,
     "useForDomains": false,
     "cloudFunctionsEnabled": false,
-    "cloudFunctionsInitialized": false
+    "cloudFunctionsInitialized": false 
   },
   "isPrivate": true,
   "customClassifierMode": "use.after",
