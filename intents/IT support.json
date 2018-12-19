@@ -1,0 +1,28 @@
+{
+  "id": "0eebea97-951f-40aa-bab1-98d79465e86a",
+  "name": "IT support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544078485,
+  "fallbackIntent": false,
+  "events": []
+}
