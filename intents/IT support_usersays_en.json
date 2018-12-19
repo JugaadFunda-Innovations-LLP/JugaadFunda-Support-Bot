@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6f592560-9606-46af-84ee-603d67cac248",
+    "data": [
+      {
+        "text": "Please provide me IT support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544078485
+  },
+  {
+    "id": "35306c53-db9d-41ec-8b69-7b5c8aa3c4ed",
+    "data": [
+      {
+        "text": "IT Support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1544078485
+  },
+  {
+    "id": "a92b475f-34c9-4400-ac48-e94ae0d87dd1",
+    "data": [
+      {
+        "text": "I need IT support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544078485
+  },
+  {
+    "id": "1df09b12-51b4-435b-8d80-583795cc4c1f",
+    "data": [
+      {
+        "text": "Please give me IT support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544078485
+  },
+  {
+    "id": "10dda6c2-e9eb-4549-b11d-815ea02b5e11",
+    "data": [
+      {
+        "text": "can i get IT support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544078485
+  },
+  {
+    "id": "7fa62b74-fefb-4306-922a-33c104ad6696",
+    "data": [
+      {
+        "text": "Can I get IT Support ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544078485
+  },
+  {
+    "id": "0869ffa7-5b27-4aa4-8503-a860762fe86f",
+    "data": [
+      {
+        "text": "I want IT Support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544078485
+  }
+]
