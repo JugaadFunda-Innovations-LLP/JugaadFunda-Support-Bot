@@ -1,0 +1,28 @@
+{
+  "id": "0a2ef707-6888-439f-9873-f12ba4ac9756",
+  "name": "ISO System and Certification Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544093301,
+  "fallbackIntent": false,
+  "events": []
+}
