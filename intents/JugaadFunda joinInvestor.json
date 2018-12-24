@@ -1,0 +1,37 @@
+{
+  "id": "ade0c288-6601-40d7-a99d-f5d37a07b0cf",
+  "name": "JugaadFunda joinInvestor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5006b470-9786-4296-b310-dcd01e2a39b8",
+          "required": false,
+          "dataType": "@JF-basics-joinInvestor",
+          "name": "JF-basics-joinInvestor",
+          "value": "$JF-basics-joinInvestor",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Show case success story of incubation to industries, industry experts, banks, finance agencies and professionals and link them to TBI for further success of incubation. Build pool of investors to seed fund start-ups under the TBI"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544166577,
+  "fallbackIntent": false,
+  "events": []
+}
