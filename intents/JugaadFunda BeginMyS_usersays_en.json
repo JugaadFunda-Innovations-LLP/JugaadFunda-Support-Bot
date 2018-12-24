@@ -1,0 +1,122 @@
+[
+  {
+    "id": "625c9811-6db4-4d7c-9eee-fb27240452bb",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "begin my startup?",
+        "alias": "JF-basics-beginStartup",
+        "meta": "@JF-basics-beginStartup",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544159910
+  },
+  {
+    "id": "4e596c33-8343-484e-92b9-70410e3568e1",
+    "data": [
+      {
+        "text": "Do you anything about ",
+        "userDefined": false
+      },
+      {
+        "text": "begin my startup",
+        "alias": "JF-basics-beginStartup",
+        "meta": "@JF-basics-beginStartup",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544159910
+  },
+  {
+    "id": "6fe370d5-4178-41db-b20b-f02dd0754e93",
+    "data": [
+      {
+        "text": "What do you know about ",
+        "userDefined": false
+      },
+      {
+        "text": "Begin my  startup",
+        "alias": "JF-basics-beginStartup",
+        "meta": "@JF-basics-beginStartup",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544159910
+  },
+  {
+    "id": "0a40dc45-767c-4d74-bb30-5baebda23c69",
+    "data": [
+      {
+        "text": "Tell me something  about ",
+        "userDefined": false
+      },
+      {
+        "text": "Begin my startup",
+        "alias": "JF-basics-beginStartup",
+        "meta": "@JF-basics-beginStartup",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544159910
+  },
+  {
+    "id": "1848d643-b565-4224-968e-661cb96a2de5",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "begin my startup",
+        "alias": "JF-basics-beginStartup",
+        "meta": "@JF-basics-beginStartup",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544159910
+  },
+  {
+    "id": "fe2f32e9-b564-48f7-b978-4ef68d319ae6",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Begin My Startup",
+        "alias": "JF-basics-beginStartup",
+        "meta": "@JF-basics-beginStartup",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544159910
+  }
+]
