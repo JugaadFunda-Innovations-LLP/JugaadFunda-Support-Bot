@@ -1,0 +1,36 @@
+{
+  "id": "8320c8e0-c876-4c3e-8507-8b40aec892d3",
+  "name": "JugaadFunda BeginMyS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8bbfcfc0-2c59-4202-91ef-c03a11ce1bb4",
+          "dataType": "@JF-basics-beginStartup",
+          "name": "JF-basics-beginStartup",
+          "value": "$JF-basics-beginStartup",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Identify and support commercially viable innovation, ideas and enable them for further scaling up through investment from industry partners. Build strong history of graduating successful start-ups to generate nominal operational revenue from start-ups and qualify for fetching grants and funding on merit."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544168844,
+  "fallbackIntent": false,
+  "events": []
+}
