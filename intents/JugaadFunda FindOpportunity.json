@@ -1,0 +1,36 @@
+{
+  "id": "6aa64c1b-d13c-412a-93e8-ebb185487e01",
+  "name": "JugaadFunda FindOpportunity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f12f55fb-6d52-4d6c-8d82-0004ecf8d5fa",
+          "dataType": "@JF-basics-findOpportunity",
+          "name": "JF-basics-findOpportunity",
+          "value": "$JF-basics-findOpportunity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Enable young graduates to engage into real life problem solving experience by availing facility to do internships with start-ups and local SME, identify self-strengths and find surviving opportunity based on the strengths. Identify new opportunities for innovation and research based on industry challenges and problems."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544162622,
+  "fallbackIntent": false,
+  "events": []
+}
