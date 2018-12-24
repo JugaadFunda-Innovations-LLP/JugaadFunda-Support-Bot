@@ -1,0 +1,122 @@
+[
+  {
+    "id": "17fb6ef2-037d-4091-9209-3fc19243fafc",
+    "data": [
+      {
+        "text": "do you have any information related to ",
+        "userDefined": false
+      },
+      {
+        "text": "joinas investor",
+        "alias": "JF-basics-joinInvestor",
+        "meta": "@JF-basics-joinInvestor",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544166577
+  },
+  {
+    "id": "03733cca-4046-4d0f-b40f-d49213a9c080",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "joinasinvestor",
+        "alias": "JF-basics-joinInvestor",
+        "meta": "@JF-basics-joinInvestor",
+        "userDefined": false
+      },
+      {
+        "text": " all about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544166577
+  },
+  {
+    "id": "52c8df27-6e24-4b2e-af8e-571dfd1d12b4",
+    "data": [
+      {
+        "text": "give me some information related to ",
+        "userDefined": false
+      },
+      {
+        "text": "joinas investor",
+        "alias": "JF-basics-joinInvestor",
+        "meta": "@JF-basics-joinInvestor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544166394
+  },
+  {
+    "id": "b66e9762-ed57-4e74-8d53-40636625273e",
+    "data": [
+      {
+        "text": "do you know anything about ",
+        "userDefined": false
+      },
+      {
+        "text": "join as investor",
+        "alias": "JF-basics-joinInvestor",
+        "meta": "@JF-basics-joinInvestor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544166394
+  },
+  {
+    "id": "72d4189a-d350-43fd-ba14-74523dee925a",
+    "data": [
+      {
+        "text": "tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "join as investor",
+        "alias": "JF-basics-joinInvestor",
+        "meta": "@JF-basics-joinInvestor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544166394
+  },
+  {
+    "id": "9e5be1ac-0810-411b-922b-b09dca377f40",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "join as investor",
+        "alias": "JF-basics-joinInvestor",
+        "meta": "@JF-basics-joinInvestor",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544166394
+  }
+]
