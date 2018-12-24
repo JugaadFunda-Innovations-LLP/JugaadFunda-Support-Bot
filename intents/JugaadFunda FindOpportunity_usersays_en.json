@@ -1,0 +1,86 @@
+[
+  {
+    "id": "86ef1417-647a-40df-8039-7c48859aae85",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "find my opportunity",
+        "alias": "JF-basics-findOpportunity",
+        "meta": "@JF-basics-findOpportunity",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544162622
+  },
+  {
+    "id": "9a2b168e-af8e-43dd-a951-75eec2cbcef8",
+    "data": [
+      {
+        "text": "Tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "find opportunity",
+        "alias": "JF-basics-findOpportunity",
+        "meta": "@JF-basics-findOpportunity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544162622
+  },
+  {
+    "id": "5b9f7d85-10e7-47d7-b478-19be864790a3",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "find my opportunity",
+        "alias": "JF-basics-findOpportunity",
+        "meta": "@JF-basics-findOpportunity",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544162622
+  },
+  {
+    "id": "5e157b01-8546-4f1c-927b-aa99f372de8e",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Find My Opportunity",
+        "alias": "JF-basics-findOpportunity",
+        "meta": "@JF-basics-findOpportunity",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544162622
+  }
+]
