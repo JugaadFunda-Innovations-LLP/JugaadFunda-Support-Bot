@@ -1,0 +1,36 @@
+{
+  "id": "001be06a-4d69-4072-86a8-fb83b90960a9",
+  "name": "JugaadFunda UpgradeBusiness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b7cec59-8a60-48b9-b4f3-095a01d9b184",
+          "dataType": "@JF-basics-upgradeBusiness",
+          "name": "JF-basics-upgradeBusiness",
+          "value": "$JF-basics-upgradeBusiness",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Link Industry to academia for solving their problems, Empower SME in adopting viable technology to achieve next level of success. Build level of trust on academic innovation."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544164583,
+  "fallbackIntent": false,
+  "events": []
+}

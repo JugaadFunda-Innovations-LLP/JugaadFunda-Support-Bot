@@ -1,0 +1,122 @@
+[
+  {
+    "id": "fba79863-2cbf-4b18-a3d5-e6d1f705945a",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "manage my institute",
+        "alias": "JF-basics-SIG",
+        "meta": "@JF-basics-SIG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544169436
+  },
+  {
+    "id": "4ae5b8cd-acac-4be8-a34f-8fba91363821",
+    "data": [
+      {
+        "text": "tell me something related to ",
+        "userDefined": false
+      },
+      {
+        "text": "manage my institute",
+        "alias": "JF-basics-SIG",
+        "meta": "@JF-basics-SIG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544169436
+  },
+  {
+    "id": "27325aa1-f74f-41ea-b14a-499fe1b99aaa",
+    "data": [
+      {
+        "text": "tell me something related to ",
+        "userDefined": false
+      },
+      {
+        "text": "manage my sig",
+        "alias": "JF-basics-SIG",
+        "meta": "@JF-basics-SIG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544169436
+  },
+  {
+    "id": "e641888f-30cc-4e0c-b3dc-3a152f370c09",
+    "data": [
+      {
+        "text": "do you have information related to ",
+        "userDefined": false
+      },
+      {
+        "text": "manage my sig",
+        "alias": "JF-basics-SIG",
+        "meta": "@JF-basics-SIG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544169436
+  },
+  {
+    "id": "d31f8116-2dbc-440b-9c8f-2184111aeae3",
+    "data": [
+      {
+        "text": "tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "manage my sig",
+        "alias": "JF-basics-SIG",
+        "meta": "@JF-basics-SIG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544169436
+  },
+  {
+    "id": "bc435161-7273-47e3-9b5d-b920531de4eb",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "manage my sig",
+        "alias": "JF-basics-SIG",
+        "meta": "@JF-basics-SIG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544169436
+  },
+  {
+    "id": "0863a504-c1d3-44b6-aecd-a24c0ecc15d5",
+    "data": [
+      {
+        "text": "what is sig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544169436
+  }
+]
