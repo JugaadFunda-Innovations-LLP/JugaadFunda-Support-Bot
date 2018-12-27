@@ -1,0 +1,36 @@
+{
+  "id": "5e6b5299-990f-4abe-a307-ffd65663e06f",
+  "name": "JugaadFunda upgradeSkills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d16b1ef8-9111-4de0-8b8f-c48a15d080d1",
+          "dataType": "@JF-basics-upgradeSkills",
+          "name": "JF-basics-upgradeSkills",
+          "value": "$JF-basics-upgradeSkills",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Enable opportunity for graduates to equip them with value added skills for self-sustainability and job creation by adopting active teaching learning methods in collaboration with reputed \u0026 efficient universities with proven record and industries around the region."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544167970,
+  "fallbackIntent": false,
+  "events": []
+}
