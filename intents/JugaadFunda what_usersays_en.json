@@ -1,0 +1,78 @@
+[
+  {
+    "id": "f4d3c544-aa4a-4642-bb40-e6a8013b18a5",
+    "data": [
+      {
+        "text": "Please tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "JugaadFunda",
+        "alias": "JF-basics-what",
+        "meta": "@JF-basics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544096707
+  },
+  {
+    "id": "e3a1c1f7-778d-4fdd-9701-06840fcda28d",
+    "data": [
+      {
+        "text": "Do you know about ",
+        "userDefined": false
+      },
+      {
+        "text": "JugaadFunda",
+        "alias": "JF-basics-what",
+        "meta": "@JF-basics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544096707
+  },
+  {
+    "id": "9d862088-a291-499a-96e1-f5ae27e35d13",
+    "data": [
+      {
+        "text": "Tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "JugaadFunda",
+        "alias": "JF-basics-what",
+        "meta": "@JF-basics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544096707
+  },
+  {
+    "id": "3a4e57e6-e582-443a-8b14-9795b180ab12",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "JugaadFunda",
+        "alias": "JF-basics-what",
+        "meta": "@JF-basics",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544093713
+  }
+]

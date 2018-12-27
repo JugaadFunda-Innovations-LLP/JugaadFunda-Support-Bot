@@ -1,0 +1,28 @@
+{
+  "id": "316bdb9b-60e0-485e-aad3-add8550b2324",
+  "name": "Makers Space / Fab Lab Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544092196,
+  "fallbackIntent": false,
+  "events": []
+}

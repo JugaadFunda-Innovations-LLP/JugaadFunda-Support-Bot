@@ -1,0 +1,28 @@
+{
+  "id": "0b62f043-0cee-4c00-973a-3004cbeb2e52",
+  "name": "Product Development Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544093266,
+  "fallbackIntent": false,
+  "events": []
+}

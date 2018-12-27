@@ -1,0 +1,28 @@
+{
+  "id": "18fe5be9-36cd-485b-ba89-743eeacb14d6",
+  "name": "Market Research Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544092247,
+  "fallbackIntent": false,
+  "events": []
+}

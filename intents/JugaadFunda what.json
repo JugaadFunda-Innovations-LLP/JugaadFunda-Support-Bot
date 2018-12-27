@@ -1,0 +1,37 @@
+{
+  "id": "45b3e3e6-4aa2-4556-95d5-318b65a71352",
+  "name": "JugaadFunda what",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1123f822-4de6-49a9-8775-1bddcdf9e087",
+          "required": false,
+          "dataType": "@JF-basics",
+          "name": "JF-basics-what",
+          "value": "$JF-basics-what",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\u0027JUGAADFUNDA\u0027, the Incubation and SME support portal is positioning to interconnect academic institutions, government, industry bodies, corporate, research labs and other business incubators creating a truly unified ecosystem for nurturing entrepreneurs."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544159204,
+  "fallbackIntent": false,
+  "events": []
+}

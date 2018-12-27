@@ -1,0 +1,28 @@
+{
+  "id": "030d11f4-076b-4479-8da8-f206278cd2a3",
+  "name": "Product Testing and Certification",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544093207,
+  "fallbackIntent": false,
+  "events": []
+}
