@@ -1,0 +1,92 @@
+[
+  {
+    "id": "77a748dc-7cbd-4241-8ab8-2efccff16b72",
+    "data": [
+      {
+        "text": "tell what is ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my business",
+        "alias": "JF-basics-upgradeBusiness",
+        "meta": "@JF-basics-upgradeBusiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544164583
+  },
+  {
+    "id": "017a5ea2-b218-4f4c-ba66-08ba0e4c694b",
+    "data": [
+      {
+        "text": "give some information about ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my business",
+        "alias": "JF-basics-upgradeBusiness",
+        "meta": "@JF-basics-upgradeBusiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544164583
+  },
+  {
+    "id": "6702f57a-df1a-43a0-9b8f-18d1b17115ca",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my business?",
+        "alias": "JF-basics-upgradeBusiness",
+        "meta": "@JF-basics-upgradeBusiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544164583
+  },
+  {
+    "id": "83504b1b-1bae-4ef0-8c03-97015f331d15",
+    "data": [
+      {
+        "text": "tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my business",
+        "alias": "JF-basics-upgradeBusiness",
+        "meta": "@JF-basics-upgradeBusiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544164583
+  },
+  {
+    "id": "16ef62e4-5cf8-4858-901d-6c7a3e50cc1b",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my business",
+        "alias": "JF-basics-upgradeBusiness",
+        "meta": "@JF-basics-upgradeBusiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544164583
+  }
+]
