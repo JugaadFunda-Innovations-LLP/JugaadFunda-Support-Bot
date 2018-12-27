@@ -1,0 +1,36 @@
+{
+  "id": "bb9863ce-85a9-4763-b6aa-b6a7cbd408c2",
+  "name": "JugaadFunda SIG",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3cb4f120-bab8-41f6-85f7-d3dfd7ef44eb",
+          "dataType": "@JF-basics-SIG",
+          "name": "JF-basics-SIG",
+          "value": "$JF-basics-SIG",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Link Institutes, Academic Special Interest Groups and other Incubators to create vibrant eco system of sharing knowledge to bring out viable interdisciplinary ideas and uplifting entrepreneurship environment amongst all academic institutes / Research labs and Incubators."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544169436,
+  "fallbackIntent": false,
+  "events": []
+}
