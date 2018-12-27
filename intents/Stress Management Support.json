@@ -1,0 +1,28 @@
+{
+  "id": "70c73391-6490-42fb-b0d6-b25fe733e9f8",
+  "name": "Stress Management Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544093233,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "abe700a1-ddd4-4232-8b9b-0ae01a3f5d9e",
+  "name": "Techno - Legal Support (IP Protection)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544092100,
+  "fallbackIntent": false,
+  "events": []
+}
