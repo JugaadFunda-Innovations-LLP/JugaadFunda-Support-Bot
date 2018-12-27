@@ -1,0 +1,78 @@
+[
+  {
+    "id": "44573280-73d9-45bf-bc29-927c161c6f93",
+    "data": [
+      {
+        "text": "give some information related to ",
+        "userDefined": false
+      },
+      {
+        "text": "uplift my town",
+        "alias": "JF-basics-upliftTown",
+        "meta": "@JF-basics-upliftTown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544168506
+  },
+  {
+    "id": "152e3f59-7313-4911-bae9-b8b611896d5b",
+    "data": [
+      {
+        "text": "do you know about ",
+        "userDefined": false
+      },
+      {
+        "text": "uplift my town",
+        "alias": "JF-basics-upliftTown",
+        "meta": "@JF-basics-upliftTown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544168506
+  },
+  {
+    "id": "6ec5cbc4-f993-4415-b456-2b0e33e6a527",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "uplift my town",
+        "alias": "JF-basics-upliftTown",
+        "meta": "@JF-basics-upliftTown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544168506
+  },
+  {
+    "id": "f492721c-de73-493f-aadb-e103a9b937ea",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "uplift my Town",
+        "alias": "JF-basics-upliftTown",
+        "meta": "@JF-basics-upliftTown",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544168506
+  }
+]

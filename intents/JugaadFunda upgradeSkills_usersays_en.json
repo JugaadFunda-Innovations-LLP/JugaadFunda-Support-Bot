@@ -1,0 +1,128 @@
+[
+  {
+    "id": "69e9e542-d45a-481f-87b5-8e668ca6b471",
+    "data": [
+      {
+        "text": "please tell about ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my skills",
+        "alias": "JF-basics-upgradeSkills",
+        "meta": "@JF-basics-upgradeSkills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544167970
+  },
+  {
+    "id": "fb64be4a-79d6-415d-a3da-305ad8fad341",
+    "data": [
+      {
+        "text": "give some information related to ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my skills",
+        "alias": "JF-basics-upgradeSkills",
+        "meta": "@JF-basics-upgradeSkills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544167970
+  },
+  {
+    "id": "0b14ac13-6cc4-4a24-82fd-5edf5a248cca",
+    "data": [
+      {
+        "text": "do you know anything related to ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my skills",
+        "alias": "JF-basics-upgradeSkills",
+        "meta": "@JF-basics-upgradeSkills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544167970
+  },
+  {
+    "id": "5bd479de-8dff-4559-a5f0-1da6d410839b",
+    "data": [
+      {
+        "text": "whats ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrademyskills",
+        "alias": "JF-basics-upgradeSkills",
+        "meta": "@JF-basics-upgradeSkills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544167970
+  },
+  {
+    "id": "4f8008e4-39e8-417b-8fe6-34e9567f0a65",
+    "data": [
+      {
+        "text": "Tell me something related to ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrademy skills",
+        "alias": "JF-basics-upgradeSkills",
+        "meta": "@JF-basics-upgradeSkills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544167970
+  },
+  {
+    "id": "d0c225e7-7a9e-42a1-8f2d-9154968e90d2",
+    "data": [
+      {
+        "text": "tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my skills",
+        "alias": "JF-basics-upgradeSkills",
+        "meta": "@JF-basics-upgradeSkills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544167970
+  },
+  {
+    "id": "ddbf1bb4-63d5-4360-8caa-797fc3844870",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "upgrade my skills",
+        "alias": "JF-basics-upgradeSkills",
+        "meta": "@JF-basics-upgradeSkills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544167970
+  }
+]

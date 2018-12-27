@@ -1,0 +1,36 @@
+{
+  "id": "1046df0f-2204-4bd6-813e-6cf5d777e531",
+  "name": "JugaadFunda upliftTown",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c37a64b0-6588-4ca4-b961-102c7610f850",
+          "dataType": "@JF-basics-upliftTown",
+          "name": "JF-basics-upliftTown",
+          "value": "$JF-basics-upliftTown",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Link Gram panchayats, Municipal corporations and Nagar parishads with academic institutes to enable students and faculty to apply their knowledge for solving problems at local level and support Gram Panchayats in efficient utilisation of allocated funds for upliftment of life of community of the region."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544168506,
+  "fallbackIntent": false,
+  "events": []
+}
