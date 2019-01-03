@@ -1,0 +1,20 @@
+[
+  {
+    "value": "Help",
+    "synonyms": [
+      "Help",
+      "i need help",
+      "can you help",
+      "helping"
+    ]
+  },
+  {
+    "value": "Option",
+    "synonyms": [
+      "Option",
+      "show options",
+      "different options",
+      "various options"
+    ]
+  }
+]
