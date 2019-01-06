@@ -1,0 +1,37 @@
+{
+  "id": "6cd49a64-be3e-41f6-b0f1-89961d7578d0",
+  "name": "Android Time Picker",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30f35ce9-7794-4077-bb53-757abf51c9e7",
+          "required": false,
+          "dataType": "@A-Time-Picker",
+          "name": "A-Time-Picker",
+          "value": "$A-Time-Picker",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Android Time Picker offers you a functionality where a user can select the time of a day manually. This can be done either in the 24 hours format or in AM-PM mode. The application bundled with the Time Picker will allow the user to pick various components of the time, which are hours, minutes, and the clock format."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546797270,
+  "fallbackIntent": false,
+  "events": []
+}
