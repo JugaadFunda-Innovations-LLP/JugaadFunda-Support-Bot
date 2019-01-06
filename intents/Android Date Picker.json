@@ -1,0 +1,36 @@
+{
+  "id": "793103ec-89f0-47bb-bd28-2fed4409e91b",
+  "name": "Android Date Picker",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "98696768-5d99-452a-a86b-78e0475dc007",
+          "dataType": "@A-Date-Picker",
+          "name": "A-Date-Picker",
+          "value": "$A-Date-Picker",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Android DatePicker UI control helps the user to select a date from a custom user interface. This date generally consists of a year, a month, and the day of the month. To adopt this functionality in an application, a developer needs to use the DatePicker and the DatePickerDialog components."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546797622,
+  "fallbackIntent": false,
+  "events": []
+}
