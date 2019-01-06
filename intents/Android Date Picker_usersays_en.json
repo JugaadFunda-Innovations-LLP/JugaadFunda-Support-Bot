@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8f73e9fc-8455-4f93-a728-ae5bcb8b25c5",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "android date piker tutorial",
+        "alias": "A-Date-Picker",
+        "meta": "@A-Date-Picker",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546797622
+  },
+  {
+    "id": "8fa7a0b6-563a-448f-90e0-ce95d981b2d8",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Android Date Picker",
+        "alias": "A-Date-Picker",
+        "meta": "@A-Date-Picker",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546797622
+  },
+  {
+    "id": "9bd0d853-4e8b-4920-86b2-42aa5e36d41e",
+    "data": [
+      {
+        "text": "explain ",
+        "userDefined": false
+      },
+      {
+        "text": "Android date Picker",
+        "alias": "A-Date-Picker",
+        "meta": "@A-Date-Picker",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546797622
+  },
+  {
+    "id": "d53a7d8f-9d46-45fc-8c26-6da9c5434496",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "android date picker",
+        "alias": "A-Date-Picker",
+        "meta": "@A-Date-Picker",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546797622
+  }
+]
